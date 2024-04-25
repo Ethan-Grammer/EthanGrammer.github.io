@@ -1,1 +1,1 @@
-Gemma's website! https://gemmang1.github.io/gemmawebsite/
+Ethan's website! https://EthanGrammer.github.io
